@@ -1,8 +1,8 @@
 ## Exit Test - Red Bus
 
-#[Github Repository Link](https://github.com/jkapoor24/Redbus-ExitTest.git)
+#[Github Repository Link](https://github.com/jkapoor24/Redbus_ExitAssignment.git)
 
-## `https://github.com/jkapoor24/Redbus_ExitTest.git`
+## `https://github.com/jkapoor24/Redbus_ExitAssignment.git`
 
 
 ** How to create Maven Project **
