@@ -1,0 +1,25 @@
+2021-07-05 23:31:01,193  INFO [main] BaseTest82 - Launching Chrome Browser
+2021-07-05 23:31:02,703  INFO [main] BaseTest141 - Hitting URL
+2021-07-05 23:31:04,453  INFO [main] RPoolTest31 - RPool Play Youtube video test case started!
+2021-07-05 23:31:04,473  INFO [main] RPoolTest33 - Clicking on Rpool link
+2021-07-05 23:31:06,441  INFO [main] RPoolTest35 - Switching frame to play youtube video
+2021-07-05 23:31:06,607  INFO [main] RPoolTest37 - Clicking Play button
+2021-07-05 23:31:09,103  INFO [main] RPoolTest40 - RPool Play Youtube video test case passed!
+2021-07-05 23:31:09,116  INFO [main] BaseTest148 - Closing Browser
+2021-07-05 23:31:10,561  INFO [main] BaseTest150 - ************************************************************************************
+2021-07-05 23:31:10,629  INFO [main] BaseTest82 - Launching Chrome Browser
+2021-07-05 23:31:11,926  INFO [main] BaseTest141 - Hitting URL
+2021-07-05 23:31:17,463  INFO [main] DonateTest36 - Red bus care donate test case started!
+2021-07-05 23:31:17,466  INFO [main] DonateTest38 - Clicking red bus care
+2021-07-05 23:31:17,742  INFO [main] DonateTest41 - Clicking amount to donate
+2021-07-05 23:31:19,614  INFO [main] DonateTest43 - Entering Name
+2021-07-05 23:31:19,884  INFO [main] DonateTest45 - Entering Email Address
+2021-07-05 23:31:20,350  INFO [main] DonateTest47 - Entering Contact Number
+2021-07-05 23:31:20,658  INFO [main] DonateTest49 - Clicking on Donate Now button
+2021-07-05 23:31:21,021  INFO [main] DonateTest51 - Selecting Credit Card option for payment
+2021-07-05 23:31:21,142  INFO [main] DonateTest53 - Clicking on Pay Now Button
+2021-07-05 23:31:21,388  INFO [main] DonateTest57 - Red bus care donate test case passed!
+2021-07-05 23:31:21,392  INFO [main] BaseTest148 - Closing Browser
+2021-07-05 23:31:22,385  INFO [main] BaseTest150 - ************************************************************************************
+2021-07-05 23:31:22,461  INFO [main] BaseTest82 - Launching Chrome Browser
+2021-07-05 23:31:23,890  INFO [main] BaseTest141 - Hitting URL
